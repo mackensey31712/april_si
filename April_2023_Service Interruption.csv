@@ -1,0 +1,121 @@
+﻿SI_Number,SI_Type,SI_Subject,Case Number,SI_CreatedDate,Opened Date_Day of Week
+SI - 4650,Tracking,Clearview modules not populating data,2,2023-04-28T16:33:08,Thursday
+SI - 4649,Tracking,Five9 SMS Incoming MMS Not Working,1,2023-04-28T12:00:50,Thursday
+SI - 4649,Tracking,Five9 SMS Incoming MMS Not Working,1,2023-04-28T12:00:50,Monday
+SI - 4648,Service Alert,Five9 unable to download new emails,3,2023-04-28T11:03:09,Friday
+SI - 4647,Service Alert,Magna5 ATT TFN DTMF Issues,1,2023-04-27T11:16:16,Monday
+SI - 4647,Service Alert,Magna5 ATT TFN DTMF Issues,4,2023-04-27T11:16:16,Thursday
+SI - 4647,Service Alert,Magna5 ATT TFN DTMF Issues,2,2023-04-27T11:16:16,Wednesday
+SI - 4647,Service Alert,Magna5 ATT TFN DTMF Issues,1,2023-04-27T11:16:16,Friday
+SI - 4646,Defect,"Looping ""Dial Another Number for this record feature""",1,2023-04-27T09:46:03,Thursday
+SI - 4646,Defect,"Looping ""Dial Another Number for this record feature""",2,2023-04-27T09:46:03,Monday
+SI - 4646,Defect,"Looping ""Dial Another Number for this record feature""",1,2023-04-27T09:46:03,Tuesday
+SI - 4646,Defect,"Looping ""Dial Another Number for this record feature""",1,2023-04-27T09:46:03,Friday
+SI - 4646,Defect,"Looping ""Dial Another Number for this record feature""",1,2023-04-27T09:46:03,Sunday
+SI - 4645,Tracking,Unable to connect to UC Adapter in Web Admin,5,2023-04-27T07:37:58,Thursday
+SI - 4644,Service Alert,te-6296-high-current-thread-usage-for-farm-c,34,2023-04-27T06:56:19,Thursday
+SI - 4643,Tracking,Five9 Plus Adapters Connection Problem Error,4,2023-04-26T20:30:45,Thursday
+SI - 4643,Tracking,Five9 Plus Adapters Connection Problem Error,13,2023-04-26T20:30:45,Wednesday
+SI - 4642,Service Alert,Outbound calls failing - MTL domains,6,2023-04-26T14:11:31,Wednesday
+SI - 4641,Defect,SU9 | Error on Report when adding Bill Time (Rounded),2,2023-04-26T08:10:34,Monday
+SI - 4641,Defect,SU9 | Error on Report when adding Bill Time (Rounded),3,2023-04-26T08:10:34,Tuesday
+SI - 4641,Defect,SU9 | Error on Report when adding Bill Time (Rounded),3,2023-04-26T08:10:34,Wednesday
+SI - 4641,Defect,SU9 | Error on Report when adding Bill Time (Rounded),3,2023-04-26T08:10:34,Thursday
+SI - 4641,Defect,SU9 | Error on Report when adding Bill Time (Rounded),1,2023-04-26T08:10:34,Friday
+SI - 4640,Threshold Alert,fvpsipvip001 APNE1 Checksip Alert,6,2023-04-26T02:21:05,Wednesday
+SI - 4640,Threshold Alert,fvpsipvip001 APNE1 Checksip Alert,1,2023-04-26T02:21:05,Thursday
+SI - 4639,Threshold Alert,Multiple SCL/ATL FRMAPP tomcat alerts,2,2023-04-26T01:52:33,Wednesday
+SI - 4638,Tracking,Connection to Five9 softphone application lost | POST SU9,2,2023-04-25T18:32:26,Monday
+SI - 4638,Tracking,Connection to Five9 softphone application lost | POST SU9,5,2023-04-25T18:32:26,Tuesday
+SI - 4638,Tracking,Connection to Five9 softphone application lost | POST SU9,1,2023-04-25T18:32:26,Wednesday
+SI - 4638,Tracking,Connection to Five9 softphone application lost | POST SU9,1,2023-04-25T18:32:26,Thursday
+SI - 4637,Defect,SU9 | Supervisors unable to perform live call listening to agents who uses a PSTN Station with (+1),1,2023-04-25T08:11:57,Monday
+SI - 4637,Defect,SU9 | Supervisors unable to perform live call listening to agents who uses a PSTN Station with (+1),1,2023-04-25T08:11:57,Tuesday
+SI - 4636,Threshold Alert,Outgoing calls from core does not send to the next route,1,2023-04-25T03:03:51,Sunday
+SI - 4635,Tracking,Supervisor ACD Text Stats Issue,2,2023-04-24T16:07:26,Friday
+SI - 4635,Tracking,Supervisor ACD Text Stats Issue,4,2023-04-24T16:07:26,Monday
+SI - 4634,Service Alert,ITFS Inbound calls failing to Brazil,2,2023-04-24T14:36:11,Monday
+SI - 4634,Service Alert,ITFS Inbound calls failing to Brazil,1,2023-04-24T14:36:11,Tuesday
+SI - 4634,Service Alert,ITFS Inbound calls failing to Brazil,1,2023-04-24T14:36:11,Wednesday
+SI - 4632,Service Alert,DTMF Not Recognized on Survey Campaigns,7,2023-04-24T10:13:16,Monday
+SI - 4632,Service Alert,DTMF Not Recognized on Survey Campaigns,8,2023-04-24T10:13:16,Tuesday
+SI - 4631,Tracking,Speech Analytics and Interactions Menu Has Changed in V02,6,2023-04-24T09:56:44,Monday
+SI - 4630,Service Alert,SU9 | Customer Record are Blank Data on Disposition,2,2023-04-24T07:40:04,Friday
+SI - 4630,Service Alert,SU9 | Customer Record are Blank Data on Disposition,36,2023-04-24T07:40:04,Monday
+SI - 4630,Service Alert,SU9 | Customer Record are Blank Data on Disposition,18,2023-04-24T07:40:04,Wednesday
+SI - 4630,Service Alert,SU9 | Customer Record are Blank Data on Disposition,3,2023-04-24T07:40:04,Thursday
+SI - 4630,Service Alert,SU9 | Customer Record are Blank Data on Disposition,1,2023-04-24T07:40:04,Sunday
+SI - 4630,Service Alert,SU9 | Customer Record are Blank Data on Disposition,24,2023-04-24T07:40:04,Tuesday
+SI - 4629,Tracking,Blank Export Interaction Data,3,2023-04-24T06:18:40,Wednesday
+SI - 4629,Tracking,Blank Export Interaction Data,3,2023-04-24T06:18:40,Friday
+SI - 4629,Tracking,Blank Export Interaction Data,3,2023-04-24T06:18:40,Thursday
+SI - 4629,Tracking,Blank Export Interaction Data,3,2023-04-24T06:18:40,Monday
+SI - 4629,Tracking,Blank Export Interaction Data,2,2023-04-24T06:18:40,Tuesday
+SI - 4628,Tracking,Unable to login to Clearview,8,2023-04-24T05:27:51,Monday
+SI - 4627,Service Alert,"SU9 | Unable to connect to PSTN Station, getting error ""Invalid Station Number""",2,2023-04-23T00:33:55,Saturday
+SI - 4627,Service Alert,"SU9 | Unable to connect to PSTN Station, getting error ""Invalid Station Number""",9,2023-04-23T00:33:55,Sunday
+SI - 4627,Service Alert,"SU9 | Unable to connect to PSTN Station, getting error ""Invalid Station Number""",10,2023-04-23T00:33:55,Monday
+SI - 4627,Service Alert,"SU9 | Unable to connect to PSTN Station, getting error ""Invalid Station Number""",2,2023-04-23T00:33:55,Tuesday
+SI - 4625,Defect,,1,2023-04-21T13:18:53,Tuesday
+SI - 4624,Service Alert,Verint alarm for v02-ris-01-801,14,2023-04-21T10:47:18,Friday
+SI - 4622,Service Alert,Webform Payment Securepay issues post SU9 LDN,1,2023-04-20T18:27:59,Thursday
+SI - 4620,Service Alert,Engagement Workflow not working,1,2023-04-20T09:31:32,Wednesday
+SI - 4620,Service Alert,Engagement Workflow not working,2,2023-04-20T09:31:32,Thursday
+SI - 4619,Outage Alert,multiple core host alerting,1,2023-04-20T00:03:45,Wednesday
+SI - 4618,Tracking,Calls Failing via 3rd Party Transfers to Peerless,3,2023-04-19T12:31:25,Tuesday
+SI - 4618,Tracking,Calls Failing via 3rd Party Transfers to Peerless,5,2023-04-19T12:31:25,Wednesday
+SI - 4618,Tracking,Calls Failing via 3rd Party Transfers to Peerless,1,2023-04-19T12:31:25,Thursday
+SI - 4617,Tracking,Chatbot Credits Zeroed,1,2023-04-19T12:22:26,Monday
+SI - 4617,Tracking,Chatbot Credits Zeroed,1,2023-04-19T12:22:26,Tuesday
+SI - 4615,Outage Alert,inc-2977ã€¡s3ã€¡activeã€¡te-6114-atl-esxi1138-pingloss,114,2023-04-19T10:08:37,Wednesday
+SI - 4615,Outage Alert,inc-2977ã€¡s3ã€¡activeã€¡te-6114-atl-esxi1138-pingloss,1,2023-04-19T10:08:37,Thursday
+SI - 4614,Tracking,FedEx - Internal Tracking,9,2023-04-19T09:41:21,Thursday
+SI - 4614,Tracking,FedEx - Internal Tracking,9,2023-04-19T09:41:21,Monday
+SI - 4614,Tracking,FedEx - Internal Tracking,15,2023-04-19T09:41:21,Wednesday
+SI - 4614,Tracking,FedEx - Internal Tracking,11,2023-04-19T09:41:21,Tuesday
+SI - 4614,Tracking,FedEx - Internal Tracking,4,2023-04-19T09:41:21,Friday
+SI - 4613,Tracking,Reconnecting to Server issue | LATAM Domanis,7,2023-04-19T07:46:31,Wednesday
+SI - 4613,Tracking,Reconnecting to Server issue | LATAM Domanis,1,2023-04-19T07:46:31,Thursday
+SI - 4612,Service Alert,US ANI is showing as Cambodia or other countries number,3,2023-04-19T07:04:27,Thursday
+SI - 4612,Service Alert,US ANI is showing as Cambodia or other countries number,3,2023-04-19T07:04:27,Friday
+SI - 4612,Service Alert,US ANI is showing as Cambodia or other countries number,1,2023-04-19T07:04:27,Monday
+SI - 4612,Service Alert,US ANI is showing as Cambodia or other countries number,1,2023-04-19T07:04:27,Wednesday
+SI - 4612,Service Alert,US ANI is showing as Cambodia or other countries number,1,2023-04-19T07:04:27,Tuesday
+SI - 4611,Defect,,1,2023-04-18T13:10:25,Monday
+SI - 4610,Defect,,1,2023-04-18T09:42:07,Thursday
+SI - 4609,Defect,,1,2023-04-17T18:09:42,Monday
+SI - 4609,Defect,,1,2023-04-17T18:09:42,Friday
+SI - 4606,Defect,,1,2023-04-13T10:29:23,Friday
+SI - 4606,Defect,,1,2023-04-13T10:29:23,Monday
+SI - 4605,Defect,,1,2023-04-12T12:15:42,Wednesday
+SI - 4604,Service Alert,Call dropping via 3rd party transfer loopback number,5,2023-04-12T11:35:54,Wednesday
+SI - 4603,Threshold Alert,FARM MOVEMENT | frmapp-m-atl-increasing-busy-threads,3,2023-04-12T10:09:01,Wednesday
+SI - 4601,Tracking,Unable To Send And/Or Receive SMS,1,2023-04-11T14:19:35,Tuesday
+SI - 4600,Service Alert,Verint Adherence not updating,2,2023-04-11T09:21:43,Monday
+SI - 4600,Service Alert,Verint Adherence not updating,4,2023-04-11T09:21:43,Tuesday
+SI - 4600,Service Alert,Verint Adherence not updating,1,2023-04-11T09:21:43,Thursday
+SI - 4599,Defect,Verint | Call stopped recording before call finished,1,2023-04-11T08:07:02,Thursday
+SI - 4596,Tracking,Clearview Oregon Cluster - Blank Dashboards or Wallboards,9,2023-04-10T07:15:27,Monday
+SI - 4594,Defect,,1,2023-04-09T20:11:41,Thursday
+SI - 4593,Defect,,1,2023-04-07T12:17:45,Tuesday
+SI - 4592,Defect,Mexico Timezone issue,3,2023-04-07T10:46:48,Monday
+SI - 4592,Defect,Mexico Timezone issue,2,2023-04-07T10:46:48,Tuesday
+SI - 4590,Tracking,Data Discrepancies between F9,2,2023-04-06T14:07:15,Monday
+SI - 4590,Tracking,Data Discrepancies between F9,1,2023-04-06T14:07:15,Tuesday
+SI - 4589,Tracking,Unable to deploy the Five9 Softphone MSI,3,2023-04-06T11:28:35,Wednesday
+SI - 4589,Tracking,Unable to deploy the Five9 Softphone MSI,3,2023-04-06T11:28:35,Monday
+SI - 4589,Tracking,Unable to deploy the Five9 Softphone MSI,1,2023-04-06T11:28:35,Tuesday
+SI - 4588,Defect,,2,2023-04-06T08:00:15,Wednesday
+SI - 4586,Tracking,Verint Custom Data Name Was Changed,1,2023-04-05T07:15:26,Tuesday
+SI - 4586,Tracking,Verint Custom Data Name Was Changed,1,2023-04-05T07:15:26,Thursday
+SI - 4586,Tracking,Verint Custom Data Name Was Changed,1,2023-04-05T07:15:26,Wednesday
+SI - 4584,Tracking,Standard Chat following business hours even when the flag is disabled,1,2023-04-04T13:47:27,Tuesday
+SI - 4583,Tracking,Closed email interaction shows [Not Defined]  disposition in Reports,1,2023-04-04T07:27:33,Wednesday
+SI - 4583,Tracking,Closed email interaction shows [Not Defined]  disposition in Reports,1,2023-04-04T07:27:33,Thursday
+SI - 4583,Tracking,Closed email interaction shows [Not Defined]  disposition in Reports,1,2023-04-04T07:27:33,Friday
+SI - 4583,Tracking,Closed email interaction shows [Not Defined]  disposition in Reports,1,2023-04-04T07:27:33,Tuesday
+SI - 4582,Defect,VO | Chats and Email Transcript not going to VO,1,2023-04-03T12:05:21,Friday
+SI - 4582,Defect,VO | Chats and Email Transcript not going to VO,2,2023-04-03T12:05:21,Tuesday
+SI - 4582,Defect,VO | Chats and Email Transcript not going to VO,2,2023-04-03T12:05:21,Friday
+SI - 4582,Defect,VO | Chats and Email Transcript not going to VO,2,2023-04-03T12:05:21,Thursday
+SI - 4581,Defect,,1,2023-04-03T07:51:47,Wednesday
